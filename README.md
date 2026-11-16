@@ -29,31 +29,31 @@ Les 5 utilisateurs suivants ont été créés en masse à l'aide de la commande 
 ## 🧪 Tests et Validations (Preuves)
 
 **1. Configuration IP du serveur (Adresse fixe)**
-![Config IP](./01-config-ip.png)
+![Config IP](./01-config-ip.PNG)
 
 **2. Installation du rôle AD DS**
-![Rôles installés](./02-roles-ad-installes.png)
+![Rôles installés](./02-roles-ad-installes.PNG)
 
 **3. Serveur promu Contrôleur de domaine (AD DS & DNS)**
-![Promotion DC](./03-serveur-promu-controleur-de-domaine.png)
+![Promotion DC](./03-serveur-promu-controleur-de-domaine.PNG)
 
 **4. Création des utilisateurs en masse via PowerShell**
-![Création PowerShell](./04-powershell-creation-utilisateurs.png)
+![Création PowerShell](./04-powershell-creation-utilisateurs.PNG)
 
 **5. Vérification des 5 utilisateurs dans l'Active Directory**
-![Liste des utilisateurs](./05-liste-utilisateurs-ad.png)
+![Liste des utilisateurs](./05-liste-utilisateurs-ad.PNG)
 
 **6. Preuve de la jonction du PC Windows 10 au domaine**
-![Bienvenue domaine](./06-pc-joint-au-domaine.png)
+![Bienvenue domaine](./06-pc-joint-au-domaine.PNG)
 
 **7. Écran de connexion de l'utilisateur du domaine**
-![Connexion adupont](./07-ecran-connexion-adupont.png)
+![Connexion adupont](./07-ecran-connexion-adupont.PNG)
 
 **8. Commande `whoami` prouvant l'authentification par le serveur**
-![Whoami](./08-whoami-prouve-domaine.png)
+![Whoami](./08-whoami-prouve-domaine.PNG)
 
 **9. Le PC client enregistré dans l'Active Directory (Dossier Computers)**
-![PC dans AD](./09-pc-client-enregistre.png)
+![PC dans AD](./09-pc-client-enregistre.PNG)
 
 ## 🏁 Récap' de ce que j'ai appris
 * Administration d'un serveur Windows Server via le Gestionnaire de serveur.
